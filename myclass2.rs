@@ -69,7 +69,7 @@ fn main() {
     cdp.shuffle();
     cdp.stop();
 
-    dvdp.set_software("Forest Gump");
+    dvdp.set_software("Forrest Gump");
     dvdp.play();
     dvdp.chapter_menu();
     dvdp.stop();
